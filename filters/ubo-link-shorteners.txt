@@ -986,3 +986,6 @@ lootdest.com##+js(nowoif, , 5)
 
 ! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9140520
 investcrust.com##+js(no-fetch-if, googlesyndication)
+
+! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-9038266
+fiuxy2.co##+js(rpnt, script, e.href = 'https://mega-enlace.com/ext.php?o=' + btoa(rt13(btoa(rt13(e.href + '|fixy'))));, e.href = '(e.href + '|fixy');)
